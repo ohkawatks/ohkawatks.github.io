@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+Please note that this web site is partly under re-construction.
+このWEBサイトは一部再構築中です。
+
 Short Biography
 ======
 Takeshi Ohkawa is an associate professor in Tokai University, Japan.  He received his M.E. and Ph.D. from Tohoku University in 2000 and 2003 respectively, and was engaged in research on dynamically reconfigurable FPGA system at Tohoku University. He joined National Institute for Advanced Industrial Science and Technology (AIST) in 2004 and started research on distributed embedded systems. He had been working in TOPS Systems Corp since 2009 and joined Utsunomiya University in 2011. In 2019, he joined Tokai University. His current research interests are the design technology of an FPGA to realize a low power robots and vision systems.

@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ja-JP"
 title                    : "Takeshi Ohkawa"
 title_separator          : "-"
 name                     : &name "Takeshi Ohkawa"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ohkawa Takeshi"
+  name             : "Takeshi Ohkawa (大川 猛)"
   avatar           : "ohkawa20190423.jpg"
   bio              : "Interests: FPGA, HW/SW Co-design, Component, Robotics"
   location         : "Takanawa, Tokyo, Japan"

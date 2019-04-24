@@ -1,10 +1,9 @@
 ---
 title: "FPGA Component Technology for Easy Integration of FPGA into Robot Systems"
 collection: publications
-permalink: /publication/2018-02-01-FPGA-component-technology
+permalink: /publication/2018-02-01-FPGA-component-technology.md
 excerpt: 'none'
 date: 2018-02-01
-venue: '2018IEICE'
 paperurl: 'http://search.ieice.org/bin/summary.php?id=e101-d_2_363'
 citation: 'Takeshi Ohkawa, Kazushi Yamashina, Hitomi Kimura, Kanemitsu Ootsu, Takashi Yokota, "FPGA Component Technology for Easy Integration of FPGA into Robot Systems," IEICE Transactions on Information and Systems (Special Section on Reconfigurable Systems), Vol.E101-D, No.2, pp.363-375, Feb. 2018.'
 ---

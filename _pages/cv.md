@@ -11,22 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electronics, Tohoku University, 1998
+* M.S. in Electronics, Tohoku University, 2000
+* Ph.D in Electronics, Tohoku University, 2003
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
- 
+* 2004-2007 National Institute for Advanced Industrial Science and Technology, Information Technology Research Institute, Network Middle-ware research group.
+* 2007-2009 National Institute for Advanced Industrial Science and Technology, Information Technology Research Institute, Embedded Real-time System research group
+* 2009-2011 TOPS Systems Corporation
+* 2011-2019 Utsunomiya University, Graduate School of Information Systems Science, Assistant Professor 
+* 2019-present Tokai University, Faculty of information and communication, Associate Professor
 
 Publications
 ======

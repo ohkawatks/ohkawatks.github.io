@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 Please note that this web site is partly under re-construction.
+
 このWEBサイトは一部再構築中です。
 
 Short Biography

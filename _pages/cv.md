@@ -26,15 +26,7 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+ 
 
 Publications
 ======
@@ -54,6 +46,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Certificates
 ======
-* Currently signed in to 43 different slack teams
+- エンベデッドシステムスペシャリスト（情報処理推進機構・IPA） (2016/4)
+- ソフトウェア開発技術者（情報処理推進機構・IPA） （平成13年以前の「情報処理第1種」・平成21年以降の「応用情報技術者」に相当） (2006/4)
+- TOEIC 850 [Listening 415, Reading 435] (2016/3)

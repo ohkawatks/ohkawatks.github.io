@@ -28,3 +28,10 @@ History
 - 2011-2019 Utsunomiya University, Graduate School of Information Systems Science, Assistant Professor
 - 2019-present Tokai University, Faculty of information and communication, Associate Professor
 
+日本語での紹介
+======
+- 過去の写真はこちら
+- 研究室（宇都宮大学大学院工学研究科情報システム科学専攻）のWebSiteはこちら
+- 研究テーマ紹介のプレゼンテーションはこちら
+- 趣味の紹介はこちら
+- 河合塾の「みらいぶプラス」で、IPSJ-ONE2018の講演について紹介いただきました。インタビュー記事もあり。

@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Takeshi Ohkawa / Tokai Univ."
+title                    : "Takeshi Ohkawa"
 title_separator          : "-"
 name                     : &name "Takeshi Ohkawa"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "ohkawatks"
+  name             : "Ohkawa Takeshi"
   avatar           : "ohkawa20190423.jpg"
   bio              : "Interests: FPGA, design, robot, ROS"
   location         : "Takanawa, Tokyo, Japan"

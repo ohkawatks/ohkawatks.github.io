@@ -1,7 +1,7 @@
 ---
 title: "FPGA Component Technology for Easy Integration of FPGA into Robot Systems"
 collection: publications
-permalink: /publication/2018-02-01-FPGA-component-technology.md
+permalink: /_publications/2018-02-01-FPGA-component-technology.md
 venue: 'IEICE TRANSACTIONS on Information and Systems'
 date: 2018-02-01
 paperurl: 'http://search.ieice.org/bin/summary.php?id=e101-d_2_363'

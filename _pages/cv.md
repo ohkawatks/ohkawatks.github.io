@@ -25,6 +25,8 @@ Work experience
 
 Publications
 ======
+Please find the complete list of my publications <a href="https://researchmap.jp/ohkawatks/?lang=english">here</a>.
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>

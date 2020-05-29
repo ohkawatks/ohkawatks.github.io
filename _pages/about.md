@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Please refer to my profile page at googlesite.
-https://sites.google.com/site/ohkawatakeshi/profile
+Please check my profile page at googlesite.
 
-https://sites.google.com/site/ohkawatakeshi/profile_en
+In <a href="https://sites.google.com/site/ohkawatakeshi/profile">Japanese</a> and in
+<a href="https://sites.google.com/site/ohkawatakeshi/profile_en">English</a>.
+
+
